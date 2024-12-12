@@ -1,0 +1,49 @@
+.timer{
+    width: 50em;
+    height: 15em;
+    background: #1E2343;
+    margin-top: 1em;
+    border-radius: 10px;
+    position: relative;
+}
+.time-head{
+    font-size: 2.5em;
+    margin-left: 13em;
+}
+.time-head1{
+    color: white;
+    margin: 0.3em;
+}
+.controls1{
+    margin-top: 14em;
+    margin-left: 39.5em;
+    padding: 0.3em 7em;
+    background: #FF6A6A;
+    font-family: "Roboto";
+    border-radius: 10px;
+    color: white;
+    border: none;
+}
+.timer1{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    background: #191E39;
+    margin-left: 2.5em;
+    position: absolute;
+    top: 2.7em;
+}
+.time-div{
+    margin-top: 3.5em;
+    margin-left: 1em;
+}
+.time1{
+    color: white;
+    font-size: 2em;
+}
+.time-head-div{
+    position: absolute;
+    top: 2.3em;
+    left: 13em;
+
+}

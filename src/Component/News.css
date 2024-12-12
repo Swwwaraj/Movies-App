@@ -1,0 +1,39 @@
+.News-main{
+    width: 20em;
+    height: 39.3em;
+    background-color:white;
+    margin-left: 53em;
+    position: absolute;
+    bottom: 1.8em;
+    border-radius: 10px;
+
+}
+.new-img{
+    width: 20em;
+    height: 20em;
+    object-fit: cover;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+.news-head{
+    background: #000000BD;
+     font-family: "Roboto";
+     font-size: 1.5em;
+     font-weight: 600;
+     color: white;
+     position: absolute;
+     top: 10.6em;
+     padding: 0.5em;
+     max-height: 3em;
+     min-height: 3em;
+}
+.news-des{
+    font-family: "Roboto";
+    line-height: 20px;
+    width: 90%;
+    margin: 0 auto;
+    color: #272727;
+    text-align: justify;
+    margin-top: 1em;
+
+}

@@ -1,0 +1,75 @@
+@import url('https://fonts.googleapis.com/css2?family=Barlow:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Host+Grotesk:ital,wght@0,300..800;1,300..800&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&family=Single+Day&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Barlow:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&family=Host+Grotesk:ital,wght@0,300..800;1,300..800&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&family=Single+Day&display=swap');
+.container{
+    width: 70%;
+    height: 70%;
+    margin: 0 auto;
+    margin-top: 4em;
+}
+.heading_signup{
+    text-align: center;
+}
+.heading_signup h1{
+    color: #72DB73;
+    font-family: "Single Day";
+    font-weight: 700;
+    font-size: 35px;
+    line-height: 50px;
+}
+.heading_signup p{
+    font-family: "DM Sans";
+    color: white;
+}
+.form_field{
+    width: 70%;
+    height: 60%;
+    margin: 3em auto;
+    margin-left: 7em;
+}
+input{
+    width: 90%;
+    padding: 0.8em;
+    display: block;
+    margin-bottom: 10px;
+    background: #292929;
+    border: 1px solid black;
+    font-family: "DM Sans";
+    color: white;
+}
+input:focus {
+    outline: 2px solid rgb(1, 97, 148);
+}
+.check{
+    display: inline;
+    margin-left: 0;
+    width: 1em;
+    margin: 0 ;
+    margin-top: 1.5em;
+}
+.check_box{
+    color: #7C7C7C;
+    margin-left: 0.5em;
+    font-size: 14px;
+    font-family: "DM Sans";
+}
+.submit{
+    display: block;
+    border: 1px solid #7C7C7C;
+    width: 90%;
+    border-radius: 15px;
+    background-color:#72DB73;
+    color: white;
+    font-size: 15px;
+    font-weight: 900;
+    margin-top: 2em;
+    padding: 5px 10px;
+    margin-bottom: 1em;
+}
+p{
+    color: #7C7C7C;
+    font-size: 15px;
+    margin-bottom: 1em;
+}
+span{
+    color: #72DB73;
+}
